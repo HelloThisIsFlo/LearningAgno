@@ -7,6 +7,10 @@ requires-python = ">=3.11"
 dependencies = [
     "agno>=1.1.0",
     "duckduckgo-search>=7.3.2",
+    "lancedb>=0.19.0",
     "openai>=1.62.0",
+    "pandas>=2.2.3",
+    "pypdf>=5.3.0",
     "python-dotenv>=1.0.1",
+    "tantivy>=0.22.0",
 ]
